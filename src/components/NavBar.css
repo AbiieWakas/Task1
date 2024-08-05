@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #000000;
+    padding: 10px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .navbar li {
+    display: inline;
+    margin-right: 10px;
+  }
+  .navbar li a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px;
+  }
+  .navbar li a:hover{
+    color: aqua;
+  }
+  body{
+    background: url('https://wallpapers-clan.com/wp-content/uploads/2024/04/stunning-pastel-field-aesthetic-desktop-wallpaper-preview.jpg');
+    background-size:cover;
+  }
